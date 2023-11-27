@@ -53,7 +53,7 @@ I am a PHP Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stats(You may need to reboot page to see the statistics) :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MrChester&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
